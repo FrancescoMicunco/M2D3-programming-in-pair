@@ -13,3 +13,13 @@
 .image-small {
     min-height: 192px;
 }
+
+.image-big {
+    max-height: 430px;
+}
+
+.box {
+    display: inline-block;
+    width: 600px;
+    justify-content: center;
+}
